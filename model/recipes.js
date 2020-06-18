@@ -33,7 +33,7 @@ let Recipes = new Schema(
     },
   },
   {
-    collection: "recipes",
+    collection: "Recipes",
   }
 );
 

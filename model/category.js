@@ -18,7 +18,7 @@ let Category = new Schema(
     },
   },
   {
-    collection: "category",
+    collection: "Category",
   }
 );
 

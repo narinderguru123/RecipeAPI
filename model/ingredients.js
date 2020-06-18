@@ -18,7 +18,7 @@ let Ingredients = new Schema(
     },
   },
   {
-    collection: "ingredients",
+    collection: "Ingredients",
   }
 );
 
